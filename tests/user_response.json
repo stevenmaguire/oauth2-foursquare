@@ -1,0 +1,58 @@
+{
+  "response": {
+    "user": {
+      "id": "12345367683",
+      "firstName": "Billy Bob",
+      "lastName": "Thornton",
+      "gender": "male",
+      "relationship": "self",
+      "canonicalUrl": "https://foursquare.com/billybobthornton",
+      "photo": {
+        "prefix": "https://irs2.4sqi.net/img/user/",
+        "suffix": "/T3AH25RYDCSEQCQB.gif"
+      },
+      "friends": {
+        "count": 62,
+        "groups": []
+      },
+      "tips": {
+        "count": 0
+      },
+      "homeCity": "Chicago, IL",
+      "contact": {
+        "email": "billybobthornton@gmail.com",
+        "twitter": "billybobthornton",
+        "facebook": "1234522202778"
+      },
+      "photos": {
+        "count": 0,
+        "items": []
+      },
+      "checkinPings": "off",
+      "pings": false,
+      "type": "user",
+      "badges": {
+        "count": 24,
+        "items": []
+      },
+      "mayorships": {
+        "count": 0,
+        "items": []
+      },
+      "checkins": {
+        "count": 1097,
+        "items": []
+      },
+      "requests": {
+        "count": 33
+      },
+      "lists": {
+        "count": 2,
+        "groups": []
+      },
+      "blockedStatus": "none",
+      "createdAt": 1265510662,
+      "referralId": "u-367683"
+    }
+  }
+}
